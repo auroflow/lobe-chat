@@ -72,7 +72,7 @@ const OpenRouter: ModelProviderCard = {
       enabled: true,
       functionCall: true,
       id: 'google/gemini-2.0-flash-exp:free',
-      maxOutput: 8_192,
+      maxOutput: 8192,
       pricing: {
         input: 0,
         output: 0,
